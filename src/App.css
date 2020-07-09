@@ -1,0 +1,11 @@
+body{
+  background-image: linear-gradient(to right top, #41254f, #4d2c54, #58325a, #633a5f, #6e4164, #77446a, #80476f, #8a4a74, #95487a, #9f4680, #aa4386, #b53f8c);}
+
+
+  * {
+    margin: 0;   
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-family: 'Signika', sans-serif;
+  }
