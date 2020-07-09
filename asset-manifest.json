@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CovidTrackerApp/static/css/main.577a8f5c.chunk.css",
-    "main.js": "/CovidTrackerApp/static/js/main.daf6b8ab.chunk.js",
-    "main.js.map": "/CovidTrackerApp/static/js/main.daf6b8ab.chunk.js.map",
+    "main.js": "/CovidTrackerApp/static/js/main.066a05e7.chunk.js",
+    "main.js.map": "/CovidTrackerApp/static/js/main.066a05e7.chunk.js.map",
     "runtime-main.js": "/CovidTrackerApp/static/js/runtime-main.63b93fd4.js",
     "runtime-main.js.map": "/CovidTrackerApp/static/js/runtime-main.63b93fd4.js.map",
     "static/css/2.af3c1da9.chunk.css": "/CovidTrackerApp/static/css/2.af3c1da9.chunk.css",
     "static/js/2.28ee6076.chunk.js": "/CovidTrackerApp/static/js/2.28ee6076.chunk.js",
     "static/js/2.28ee6076.chunk.js.map": "/CovidTrackerApp/static/js/2.28ee6076.chunk.js.map",
     "index.html": "/CovidTrackerApp/index.html",
-    "precache-manifest.26445037f5911eed7c25d9e5df10f4b7.js": "/CovidTrackerApp/precache-manifest.26445037f5911eed7c25d9e5df10f4b7.js",
+    "precache-manifest.a724f3790be53ca525b6e7e6699db1e6.js": "/CovidTrackerApp/precache-manifest.a724f3790be53ca525b6e7e6699db1e6.js",
     "service-worker.js": "/CovidTrackerApp/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/CovidTrackerApp/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.577a8f5c.chunk.css.map": "/CovidTrackerApp/static/css/main.577a8f5c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.28ee6076.chunk.js",
     "static/css/main.577a8f5c.chunk.css",
-    "static/js/main.daf6b8ab.chunk.js"
+    "static/js/main.066a05e7.chunk.js"
   ]
 }
