@@ -23,15 +23,15 @@ render(){
 <Switch>
 
 
-  <Route exact path="/">
+  <Route  path="/">
 <India/>
   </Route>
 
-  <Route exact path="/india">
+  <Route  path="/india">
 <India/>
   </Route>
 
-  <Route exact path="/world">
+  <Route  path="/world">
 <World/>
   </Route>
 
